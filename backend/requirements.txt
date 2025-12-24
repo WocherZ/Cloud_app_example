@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+sqlalchemy
+psycopg2-binary
+alembic
+pydantic[email]
+bcrypt==4.0.1
+pytest
+requests==2.32.5
+openai>=1.52.0
+minio

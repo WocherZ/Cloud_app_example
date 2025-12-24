@@ -1,0 +1,340 @@
+[
+    {
+        "email": "nko1.angarsk@example.com",
+        "organization_name": "ОО ТОС АГО \"Развитие территории\"",
+        "city_name": "Ангарск",
+        "moderation_status": "Одобрена",
+        "category": "Развитие территорий",
+        "description": "Некоммерческая организация, работающая над развитием городской инфраструктуры и вовлечением жителей Ангарска в социально-значимые проекты. Основные направления – инициирование и поддержка гражданских инициатив, благоустройство города, организация мероприятий по развитию комфортной среды.",
+        "address": "г. Ангарск, ул. Строителей, 12",
+        "website": "https://angarsk-tos.ru",
+        "phone": "+7 (3955) 12-34-56",
+        "founded_year": 2014,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/tos_angarsk" }
+        ],
+        "logo_url": "files/nko/tos-angarsk-logo.jpg",
+        "rejection_reason": null
+    },
+    {
+        "email": "nko2.volodinsk@example.com",
+        "organization_name": "Благотворительный фонд \"Платформа добрых дел\"",
+        "city_name": "Волгодонск",
+        "moderation_status": "Одобрена",
+        "category": "Благотворительность",
+        "description": "Благотворительный общественно полезный фонд помощи социально незащищенным слоям населения «Платформа добрых дел»",
+        "address": "г. Волгодонск, ул. Добрая, 5",
+        "website": "https://platforma-dobryhdel.ru",
+        "phone": "+7 (863) 629-52-52",
+        "founded_year": 2011,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/platforma_dobryhdel" }
+        ],
+        "logo_url": "files/nko/platforma-logo.jpg",
+        "rejection_reason": null
+    },
+    {
+        "email": "nko3.glazov@example.com",
+        "organization_name": "МБУ \"Молодежный центр\"",
+        "city_name": "Омск",
+        "moderation_status": "Одобрена",
+        "category": "Молодежная политика",
+        "description": "Муниципальное бюджетное учреждение, объединяющее активную молодежь города Глазова. Здесь проходят образовательные, культурные и спортивные мероприятия, развивается волонтёрское движение и реализуются проекты для подростков и студентов.",
+        "address": "г. Омск, ул. Ленина, 41",
+        "website": "https://molcenter-omsk.ru",
+        "phone": "+7 (3812) 90-12-34",
+        "founded_year": 2008,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/molcenterglazov" }
+        ],
+        "logo_url": "files/nko/molcenter-glazov-logo.jpg",
+        "rejection_reason": null
+    },
+    {
+        "email": "nko33.glazov@example.com",
+        "organization_name": "Культурная база \"Короленко 8\" (МБУ \"ЦМиТО УКСиМП\"",
+        "city_name": "Глазов",
+        "moderation_status": "Одобрена",
+        "category": "Здоровье",
+        "description": "Основная деятельность: \nРесурсный центр помощи НКО и сообществам, учреждениям культуры, образования\n\nЦА: \nИнициативные жители, сообщества, НКО, учреждения города",
+        "address": "г. Глазов, ул. Короленко, 8",
+        "website": "https://dobro.ru/organizations/10011401/info",
+        "phone": "+7 (341) 416-63-55",
+        "founded_year": 2015,
+        "social_links": [
+            { "type": "vk", "url": "https://m.vk.com/korolenko8?from=groups" }
+        ],
+        "logo_url": "files/nko/korolenko8-logo.jpg",
+        "rejection_reason": null
+    },
+    {
+        "email": "nko4.ekaterinburg@example.com",
+        "organization_name": "\"Экологический союз\"",
+        "city_name": "Екатеринбург",
+        "moderation_status": "Одобрена",
+        "category": "Экология",
+        "description": "Экологическое движение, нацеленное на защиту окружающей среды, проведение субботников, акций по посадке деревьев и экологических образовательных программ для жителей города.",
+        "address": "г. Екатеринбург, пр. Победы, 21", 
+        "website": "https://ecounion.ru/",
+        "phone": "+7 (343) 22-11-555",
+        "founded_year": 2016,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/ecounion_jel" }
+        ],
+        "logo_url": "files/nko/ecounion-logo.jpg",
+        "rejection_reason": null
+    },
+    {
+        "email": "nko5.novgorod@example.com",
+        "organization_name": "Благотворительный фонд \"Планета Кошек\"",
+        "city_name": "Нижний Новгород",
+        "moderation_status": "Одобрена",
+        "category": "Защита животных",
+        "description": "Благотворительный Фонд \"Планета Кошек\" — это проект помощи бездомным животным в Нижнем Новгороде! Благотворительный Фонд \"Планета Кошек\" входит в состав многофункционального Центра помощи и реабилитации животных. Деятельность Фонда направлена на спасение животных, оказавшихся в сложных жизненных ситуация, брошенных на улице, нуждающихся в ветеринарной помощи!",
+        "address": "г. Нижний Новгород, ул. Мира, 7/3",
+        "website": "https://planetakoshek52.ru/",
+        "phone": "+7 (831) 45-67-890",
+        "founded_year": 2012,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/planetakosheknn" }
+        ],
+        "logo_url": "files/nko/planet-cats-logo.jpg",
+        "rejection_reason": null
+    },
+    {
+        "email": "nko6.krasnoyarsk@example.com",
+        "organization_name": "АНО \"Добрый Берег\"",
+        "city_name": "Красноярск",
+        "moderation_status": "На модерации",
+        "category": "Социальная поддержка",
+        "description": "Организация развивает программы наставничества для подростков, проводит тренинги по профориентации и поддерживает семьи, оказавшиеся в трудной жизненной ситуации.",
+        "address": "г. Красноярск, ул. Парковая, 18",
+        "website": "https://goodshore24.ru",
+        "phone": "+7 (391) 77-88-990",
+        "founded_year": 2018,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/goodshore24" }
+        ],
+        "logo_url": "files/nko/good-shore-logo.jpg",
+        "rejection_reason": null
+    },
+    {
+        "email": "nko7.samara@example.com",
+        "organization_name": "Фонд \"Чистый Ветер\"",
+        "city_name": "Самара",
+        "moderation_status": "Отклонена",
+        "category": "Экология",
+        "description": "Фонд организует эко-марафоны, обучает студентов переработке отходов и развивает проекты по сокращению пластикового следа в Поволжье.",
+        "address": "г. Самара, ул. Набережная, 4",
+        "website": "https://cleanwind63.ru",
+        "phone": "+7 (846) 33-22-110",
+        "founded_year": 2015,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/cleanwind63" }
+        ],
+        "logo_url": "files/nko/clean-wind-logo.jpg",
+        "rejection_reason": "Не предоставлены подтверждающие документы"
+    },
+    {
+        "email": "nko8.ozersk@example.com",
+        "organization_name": "АНО «Твердыми шагами»",
+        "city_name": "Озёрск",
+        "moderation_status": "На модерации",
+        "category": "Экология",
+        "description": "Автономная некоммерческая организация помощи детям с ограниченными возможностями здоровья, инвалидностью и их семьям.",
+        "address": "г. Озёрск, ул. Мирная, д.4",
+        "website": "https://asi.org.ru/ngoprofile/ano-tsh/",
+        "phone": "+7 (846) 23-22-110",
+        "founded_year": 2017,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/club207076122" }
+        ],
+        "logo_url": "files/nko/tsh-ozersk-logo.jpg",
+        "rejection_reason": ""
+    },
+    {
+        "email": "nko9.new-usolie@example.com",
+        "organization_name": "БФМС Новое Усолье",
+        "city_name": "Новое Усолье",
+        "moderation_status": "На модерации",
+        "category": "Социальная поддержка",
+        "description": "Основная деятельность:\nАктивизация/развитие местного сообщества для улучшения жизни в городе\n\nЦА:\nНеравнодушные жители, женщины 40+, семьи с детьми",
+        "address": "г. Новое Усолье, ул. Ленина, д.1",
+        "website": "https://asi.org.ru/ngoprofile/bfms-novoe-usole/",
+        "phone": "+7 (846) 23-22-110",
+        "founded_year": 2018,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/club166583301" }
+        ],
+        "logo_url": "files/nko/bfms-novoe-usole-logo.jpg",
+        "rejection_reason": ""
+    },
+    {
+        "email": "nko10.new-usolie@example.com",
+        "organization_name": "УГМО ИОРОООО ВОИ",
+        "city_name": "Новое Усолье",
+        "moderation_status": "На модерации",
+        "category": "Социальная поддержка",
+        "description": "Основная деятельность:\nОрганизация работает по поддержке людей с инвалидностью и развитию адаптивной физической культуры и спорта в городе. Группа изучает более 25 человек различных нозологических групп. \n\nЦА:\nЛюди с инвалидностью всех возрастов",
+        "address": "г. Новое Усолье, ул. Ленина, д.1",
+        "website": "https://www.voi.ru/",
+        "phone": "+7 (952) 23-22-110",
+        "founded_year": 2019,
+        "social_links": [],
+        "logo_url": "files/nko/voi-logo.jpg",
+        "rejection_reason": ""
+    },
+    {
+        "email": "nko11.snzzhensk@example.com",
+        "organization_name": "СГОО БУМЕРАНГ ДОБРА",
+        "city_name": "Снежинск",
+        "moderation_status": "Одобрена",
+        "category": "Социальная поддержка",
+        "description": "Основная деятельность:\nПоддержка семей с детьми, вовлечение в благотворительность, проведение благотворительных акций и мероприятий.\n\nЦА:\nСемьи с детьми",
+        "address": "г. Снежинск, ул. Ленина, д.1",
+        "website": "https://bumerang-dobra.org/",
+        "phone": "+7 (952) 23-22-110",
+        "founded_year": 2017,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/bdsnz" }
+        ],
+        "logo_url": "files/nko/bumerang-dobra-logo.jpg",
+        "rejection_reason": ""
+    },
+    {
+        "email": "nko12.snzzhensk@example.com",
+        "organization_name": "Снежинская городская общественная организация Союз женщин Снежинска",
+        "city_name": "Снежинск",
+        "moderation_status": "Одобрена",
+        "category": "Социальная поддержка",
+        "description": "Основная деятельность: \nПоддержка семей с детьми: многодетных, приемных семей, семей в городских общежитиях через Семейный клуб, развитие социального предпринимательства. Содействие повышению качества жизни старшего поколения через Клуб общения старшего поколения. \nПоддержка общественного движения по сохранению и  развитию национальных культур в Снежинске. \nЗащита прав женщин. \n\nЦА: \nЖенщины, семьи с детьми, пенсионеры \n\nПлан мероприятий на год: \n1) Открыть Семейный клуб и Центр долголетия",
+        "address": "г. Снежинск, ул. Добрая, д.11",
+        "website": "https://sovetgensnz.tilda.ws/",
+        "phone": "+7 (343) 555-22-10",
+        "founded_year": 2013,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/sovetgensnz?from=groups" }
+        ],
+        "logo_url": "files/nko/sovet-gensnz-logo.jpg",
+        "rejection_reason": ""
+    },
+    {
+        "email": "nko13.seversk@example.com",
+        "organization_name": "ТРОО ВПЦ МИРНЫЙ ВОИН",
+        "city_name": "Северск",
+        "moderation_status": "Одобрена",
+        "category": "Социальная поддержка",
+        "description": "Помощь участникам СВО и их семьям. Сбор гуманитарной помощи в зону СВО.",
+        "address": "г. Северск, ул. Ленина, д.1",
+        "website": "https://vk.com/mirniyvoin8",
+        "phone": "+7 (343) 555-22-10",
+        "founded_year": 2013,
+        "social_links": [
+            { "type": "vk", "url": "https://ok.ru/profile/566417452251/statuses/156787104735451" }
+        ],
+        "logo_url": "files/nko/vpcmirniyvoj-logo.jpg",
+        "rejection_reason": ""
+    },
+    {
+        "email": "nko14.omsk@example.com",
+        "organization_name": "АНО СЦСА НАШИ ДЕТИ",
+        "city_name": "Омск",
+        "moderation_status": "Одобрена",
+        "category": "Социальная поддержка",
+        "description": "Основная деятельность: \nПомощь семьям воспитывающих детей с инвалидностью. Обучение неговорящих детей общаться при помощи альтернативной коммуникации. Открываем новое направление ранняя помощь детей до 3х  лет, имеющим трудности в развитии. \n\nЦА: \nСемьи воспитывающие детей до 3х лет, имеющие трудности в развитии, проживающие в Омском регионе. \nСемьи воспитывающие неговорящих детей, нуждающихся в альтернативных способах общения, проживающие в городе Омске. \n\nПлан мероприятий до конца года: \n1) 31.07.25 Встреча с зам министра образования Груздевой - обсуждение дорожной карты развития альтернативной коммуникации в адаптивных школах Омской области. Мероприятия появятся после обсуждения дорожной карты. \n2) 31.08.25 Завершение мероприятий проекта - встреч детей с инвалидностью по проекту 'Вокруг света' поддержанного Министерством труда и социального развития Омской области. \n3) 1.08.2025 Старт волонтерского проекта совместно с Омским филиалом ПАО 'Ростелеком' «Чтение без границ». \n4) 19.12.2025 Проведение двух новогодних мероприятий для детей с инвалидностью, поддержка Администрации города Омске. \n5) Ждем результаты гранта Министерства внутренней политики Омской области. Проек 'Музыка для всех', в рамках которого заложено сотрудничество с музыкальными школами региона для расширения компетенций педагогов в работе с особенными детьми. \n5) В рамках субсидии Министерства труда и социального развития проводим занятия на безвозмездной основе для 30 ребят, учим общаться при помощи альтернативной коммуникации. (индивидуальные и групповые занятия. \nЗанятия проводятся регулярно и постоянно. \n6) С 15 сентября стартуют занятия в рамках ранней помощи для детей с трудностями в развитии до 3х лет. Ведем набор детей.",
+        "address": "г. Омск, ул. Ленина, д.1",
+        "website": "https://na-deti.ru/",
+        "phone": "+7 (381) 23-22-110",
+        "founded_year": 2013,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/perevaluchko" }
+        ],
+        "logo_url": "files/nko/anoscsa-nashi-deti-logo.jpg",
+        "rejection_reason": ""
+    },
+    {
+        "email": "nko15.obninsk@example.com",
+        "organization_name": "АНО ДПО 'Техническая академия Росатома'",
+        "city_name": "Обнинск",
+        "moderation_status": "Одобрена",
+        "category": "Образование",
+        "description": "На данный момент НКО нет. Находится на стадии формирования концепции и формализации идеи. ",
+        "address": "г. Обнинск, ул. Ленина, д.1",
+        "website": "https://rosatomtech.ru/",
+        "phone": "+7 (484) 567-89-01",
+        "founded_year": 2023,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/rosatomtech" }
+        ],
+        "logo_url": "files/nko/dpot-tehnicheskaya-akademiya-rosatom-logo.jpg",
+        "rejection_reason": ""
+    },
+    {
+        "email": "nko17.obninsk@example.com",
+        "organization_name": "КРОМО \"Экологический союз\" ",
+        "city_name": "Железногорск",
+        "moderation_status": "Одобрена",
+        "category": "Образование",
+        "description": "Основная деятельность: \nОрганизация и проведение различных экскурсий, конкурсов, выставок, акций, конференций, фестивалей, семинаров, олимпиад, походов, круглых столов, курсов, связанных с миром природы. Разработка и реализация просветительных программ эколого -биологической, естественно-научной, природоохранной, туристско - краеведческой направленности для детей и взрослых вместе с детьми. Оказание практической помощи другим организациям и привлечение молодежи к участию в экологической работе на территории ЗАТО Железногорск. \n\nЦА: \nАктивная молодежь, заинтересовнная в решении экологических проблем и природоохранной деятельности, экоактивисты. \n\nПлан мероприятий на год: \n1) «Нескучная инженерия» при поддержке АНО «Энергия развития» ГК Росатом. \n2) «Ни грамма скуки» - при поддержке фонда президентских грантов. \n3) «Меняй себя, а не климат» поддержанный фондом «Соработничество» (с 1 августа). \n4) Проект «Система ЗАТО Железногорск» (с 1 декабря). \n",
+        "address": "г. Железногорск, ул. Курчатова, д.15",
+        "website": "http://экосоюз24.рф",
+        "phone": "+7 (960) 756-02-30",
+        "founded_year": 2023,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/ecosoyuz24" }
+        ],
+        "logo_url": "files/nko/ecosoyuz-logo.jpg",
+        "rejection_reason": ""
+    },
+    {
+        "email": "charity.irkutsk@example.com",
+        "organization_name": "Фонд 'Тепло Сердец'",
+        "city_name": "Иркутск",
+        "moderation_status": "Одобрена",
+        "category": "Благотворительность",
+        "description": "Организация оказывает поддержку детям-сиротам и детям, оказавшимся в трудной жизненной ситуации. Ведёт сбор пожертвований, организацию благотворительных мероприятий, поддержку образовательных и медицинских инициатив.",
+        "address": "г. Иркутск, ул. Байкальская, д.47",
+        "website": "https://teplo-serdec.ru",
+        "phone": "+7 (3952) 51-24-63",
+        "founded_year": 2017,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/teploserdec_irk" }
+        ],
+        "logo_url": "files/nko/teplo-serdec-logo.jpg",
+        "rejection_reason": null
+    },
+    {
+        "email": "culture.tolyatti@example.com",
+        "organization_name": "Общественное движение 'Культурный Код'",
+        "city_name": "Москва",
+        "moderation_status": "Одобрена",
+        "category": "Культура",
+        "description": "Движение объединяет творческих людей города Тольятти и организует фестивали, выставки, музейные ночи и культурные мастер-классы. Содействует развитию художественного образования и поддерживает местных авторов.",
+        "address": "г. Москва, ул. Ленина, д. 1",
+        "website": "https://kulturnykod.ru",
+        "phone": "+7 (916) 123-45-67",
+        "founded_year": 2012,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/kulturnykod24" }
+        ],
+        "logo_url": "files/nko/kulturny-kod-logo.jpg",
+        "rejection_reason": ""
+    },
+    {
+        "email": "territory.novouralsk@example.com",
+        "organization_name": "Ассоциация 'Наш Новоуральск'",
+        "city_name": "Новоуральск",
+        "moderation_status": "Одобрена",
+        "category": "Развитие территорий",
+        "description": "Ассоциация занимается развитием городской среды, обустраивает дворовые территории, внедряет инициативные проекты по созданию парков и общественных пространств. Привлекает жителей к решению вопросов благоустройства города.",
+        "address": "г. Новоуральск, ул. Молодежная, д. 5",
+        "website": "https://nash-novouralsk.ru",
+        "phone": "+7 (34370) 2-34-56",
+        "founded_year": 2014,
+        "social_links": [
+            { "type": "vk", "url": "https://vk.com/nashnovouralsk" }
+        ],
+        "logo_url": "files/nko/nash-novouralsk-logo.jpg",
+        "rejection_reason": null
+    }
+]

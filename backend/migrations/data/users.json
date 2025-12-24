@@ -1,0 +1,114 @@
+{
+    "test1@example.com": {
+        "id": 1,
+        "email": "test1@example.com",
+        "name": "Главный администратор",
+        "city_name": "Ангарск",
+        "role": "user",
+        "hashed_password": "$2b$12$GPsMMWTzPsoYktDhaFBmBe2N75ciQ6Cm5GJ/LbXh/dPAu.LrlZp82",
+        "user_photo": "files/user_photo/admin.jpg"
+    },
+    "test@example.com": {
+        "id": 2,
+        "email": "test@example.com",
+        "name": "Андрей Миронов",
+        "city_name": "Ангарск",
+        "role": "user",
+        "hashed_password": "$2b$12$HFTNuP0oYqFNr15mRG0ji.7Xc3UGxPyRpla0laSfEXVKZlDQ.5TVO",
+        "user_photo": "files/user_photo/user4.jpg"
+    },
+    "test3@example.com": {
+        "id": 3,
+        "email": "test3@example.com",
+        "name": "Антон Петров",
+        "city_name": "Ангарск",
+        "role": "admin",
+        "hashed_password": "$2b$12$aE0qcZ8AgPJlf9ANwxIYGu4Stv05YwVUjLWRo//ckyJIiROnMYk4a",
+        "user_photo": "files/user_photo/user4.jpg"
+    },
+    "1@example.com": {
+        "id": 4,
+        "email": "1@example.com",
+        "name": "Админ Админович Админовский",
+        "city_name": "Волгодонск",
+        "role": "admin",
+        "hashed_password": "$2b$12$0ZPrH35NOPJINdy9fIKyjOrTFqobYHgdI2/4ckw4gpldAPzP/l/vG",
+        "user_photo": "files/user_photo/user4.jpg"
+    },
+    "test11@example.com": {
+        "id": 5,
+        "email": "test11@example.com",
+        "name": "Пётр Ермаков",
+        "city_name": "Волгодонск",
+        "role": "nko",
+        "hashed_password": "$2b$12$EiP0I0NJN/JW74gFtU5IXegEgJ3WwCVSYxw6U0ZxEA4rrVmHT0Ewy",
+        "user_photo": "files/user_photo/user3.jpg",
+        "organization_id": 3
+    },
+    "1111@example.com": {
+        "id": 6,
+        "email": "1111@example.com",
+        "name": "Максим Кузов",
+        "city_name": "Ангарск",
+        "role": "user",
+        "hashed_password": "$2b$12$xyzQQzDYwJTS0QwINFWEWORKJxAyROEeF7ayHpF7xP9MxeiUd5EvC",
+        "user_photo": "files/user_photo/user2.jpg"
+    },
+    "9899@example.com": {
+        "id": 7,
+        "email": "9899@example.com",
+        "name": "Иван Иванов",
+        "city_name": "Глазов",
+        "role": "nko",
+        "hashed_password": "$2b$12$nsHQ2YtBPsRnNaPdugxPUeaDGcPLjFZncNJyN6u0gabc45HdqLJhG",
+        "user_photo": "files/user_photo/user1.jpg",
+        "organization_id": 2
+    },
+    "9876@example.com": {
+        "id": 8,
+        "email": "9876@example.com",
+        "name": "Константин Глазовский",
+        "city_name": "Глазов",
+        "role": "nko",
+        "hashed_password": "$2b$12$0y8gNBjaWX2aAkLiuWWVuugybavN5aZVM7AA7actdlaHunn7aFyHe",
+        "organization_id": 1,
+        "user_photo": "files/user_photo/user2.jpg"
+    },
+    "9111@example.com": {
+        "id": 9,
+        "email": "9111@example.com",
+        "name": "Александр Диков",
+        "city_name": "Глазов",
+        "role": "moderator",
+        "hashed_password": "$2b$12$dDJ.dOLCVIJkOF8HfzP7g..Z2osGXpBsreUggWsY80shC9EyzVQXu",
+        "user_photo": "files/user_photo/user3.jpg"
+    },
+    "user123@example.com": {
+        "id": 10,
+        "email": "user123@example.com",
+        "name": "Андрей - Модераторский",
+        "city_name": "Глазов",
+        "role": "moderator",
+        "hashed_password": "$2b$12$/QMrM0xDEMgxOGm2ZzHb6.Nf1cIFUz35R11Mjf6wfplw4qFl7TANq",
+        "user_photo": "files/user_photo/user3.jpg"
+    },
+    "moder@example.com": {
+        "id": 11,
+        "email": "moder@example.com",
+        "name": "Модераторский Модератор",
+        "city_name": "Екатеринбург",
+        "role": "moderator",
+        "hashed_password": "$2b$12$Hiy2lcrKB3l8phuDzXBONurrtMNhrBahuXSdcJk6vYvAuCuvfJKDa",
+        "user_photo": "files/user_photo/user1.jpg"
+    },
+    "nko@example.com": {
+        "id": 12,
+        "email": "nko@example.com",
+        "name": "Явный представитель НКО",
+        "city_name": "Екатеринбург",
+        "role": "nko",
+        "organization_id": 4,
+        "hashed_password": "$2b$12$fVfOh/nB1n2jeapjXBnRv.sqeopEdqjSssYfUEO5Tqd4N/Bl/9qvO",
+        "user_photo": "files/user_photo/user3.jpg"
+    }
+}
