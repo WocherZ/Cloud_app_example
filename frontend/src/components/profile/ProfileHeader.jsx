@@ -2,7 +2,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { FiMail, FiMapPin, FiAward } from 'react-icons/fi';
 
-const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'http://localhost:8000';
+const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || 'http://158.160.211.129:8000';
 
 export const ProfileHeader = ({ user }) => {
   // Генерируем аватар из первой буквы имени

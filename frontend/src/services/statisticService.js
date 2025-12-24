@@ -1,6 +1,6 @@
 // src/services/adminService.js
 
-const API_BASE_URL = 'http://localhost:8000'; // Убедись, что URL совпадает с твоим конфигом
+const API_BASE_URL = 'http://158.160.211.129:8000'; // Убедись, что URL совпадает с твоим конфигом
 
 const getHeaders = () => {
   // Проверяем оба варианта ключа, чтобы точно найти токен

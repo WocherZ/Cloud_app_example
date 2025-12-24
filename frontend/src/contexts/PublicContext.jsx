@@ -21,7 +21,7 @@ export const PublicProvider = ({ children }) => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  const API_BASE_URL = 'http://localhost:8000';
+  const API_BASE_URL = 'http://158.160.211.129:8000';
 
   // --- СПИСКИ (Оставляем с глобальным лоадером) ---
 

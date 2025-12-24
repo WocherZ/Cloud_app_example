@@ -1,6 +1,6 @@
 // src/services/userService.js
 
-const API_URL = 'http://localhost:8000'; // Твой URL
+const API_URL = 'http://158.160.211.129:8000'; // Твой URL
 
 const getHeaders = () => {
   const token = localStorage.getItem('authToken');

@@ -1,7 +1,7 @@
 // src/api/AdminAPI.js
 // Все API запросы для админ-панели
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'http://158.160.211.129:8000';
 const ADMIN_NEWS_BASE = `${API_BASE_URL}/admin_news`;
 
 // Получить токен из localStorage

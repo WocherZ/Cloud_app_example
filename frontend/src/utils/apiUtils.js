@@ -1,7 +1,7 @@
 // src/utils/apiUtils.js
 
 // Базовый URL API
-export const API_BASE_URL = 'http://localhost:8000';
+export const API_BASE_URL = 'http://158.160.211.129:8000';
 
 // Дефолтная картинка-заглушка
 export const DEFAULT_IMAGE = '/volunteer-center-1.jpg';
